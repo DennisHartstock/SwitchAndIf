@@ -1,0 +1,14 @@
+D:\C#\SwitchAndIf\bin\Debug\net8.0\SwitchAndIf.exe
+D:\C#\SwitchAndIf\bin\Debug\net8.0\SwitchAndIf.deps.json
+D:\C#\SwitchAndIf\bin\Debug\net8.0\SwitchAndIf.runtimeconfig.json
+D:\C#\SwitchAndIf\bin\Debug\net8.0\SwitchAndIf.dll
+D:\C#\SwitchAndIf\bin\Debug\net8.0\SwitchAndIf.pdb
+D:\C#\SwitchAndIf\obj\Debug\net8.0\SwitchAndIf.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SwitchAndIf\obj\Debug\net8.0\SwitchAndIf.AssemblyInfoInputs.cache
+D:\C#\SwitchAndIf\obj\Debug\net8.0\SwitchAndIf.AssemblyInfo.cs
+D:\C#\SwitchAndIf\obj\Debug\net8.0\SwitchAndIf.csproj.CoreCompileInputs.cache
+D:\C#\SwitchAndIf\obj\Debug\net8.0\SwitchAndIf.dll
+D:\C#\SwitchAndIf\obj\Debug\net8.0\refint\SwitchAndIf.dll
+D:\C#\SwitchAndIf\obj\Debug\net8.0\SwitchAndIf.pdb
+D:\C#\SwitchAndIf\obj\Debug\net8.0\SwitchAndIf.genruntimeconfig.cache
+D:\C#\SwitchAndIf\obj\Debug\net8.0\ref\SwitchAndIf.dll
